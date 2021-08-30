@@ -1,17 +1,14 @@
 ### Hi there 👋
 
-I am a data scientist, computational social scientist, and sociologist. 
+I am a statistician. I'm interested in the application of statistical methods to address specific policy relevant questions, and in particular in international trade, migration, investments and theoretically founded empirical work. My interests cover methodology and data compilation practises, systematically missing data, how we clean, prepare, and tidy data in a reproducible way, and the role of information on the implications of models. 
 
-In my academic work, I studied social networks, health disparities, and identities using a variety of computational tools like network analysis, natural language processing, advanced statistical analysis, and machine learning. Currently, I am employed as data scientists at IBM. Becuase of this, you'll see less commits here on my personal open-source account lately. 
+Quick Links: [🔗 Personal Homepage](https://pacha.dev/), [🐦 Twitter](https://twitter.com/pachadotdev), [📖 R4DS in Spanish](https://es.r4ds.hadley.nz/).
 
-Quick Links: [🔗 Personal Homepage](https://kelseygonzalez.github.io/), [🐦 Twitter](https://twitter.com/KelseyEGonzalez), [🖧 LinkedIn](https://www.linkedin.com/in/kelseygonzalez/)
-
-To contact me, email 📫 at kelseygonzalez@email.arizona.edu
+To contact me, email 📫 at mavargas11@uc.cl
 
 #### 🧰 Toolbox 
-<img src="https://cdn.worldvectorlogo.com/logos/python-4.svg" alt="Python Logo" width="50" height="50"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R Logo" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git Logo" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="SQL Logo" width="50" height="50"/> <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Stata_Logo.svg" alt="stata Logo" width="90" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/latex.svg" alt="latex Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/html5-2.svg" alt="HTML Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS Logo" width="50" height="50"/> <img src="https://d33wubrfki0l68.cloudfront.net/c38c7334cc3f23585738e40334284fddcaf03d5e/2e17c/images/hugo-logo-wide.svg" alt="Hugo Logo" width="50" height="50"/>
-
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R Logo" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git Logo" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="Github Logo" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="SQL Logo" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/digitalocean/digitalocean-original-wordmark.svg" alt="DigitalOcean Logo" width="50" height="50"/>
 
 #### 📈 Stats 
 
-![Metrics](https://github.com/kelseygonzalez/kelseygonzalez/raw/main/github-metrics.svg)
+![Metrics](https://github.com/pachadotdev/pachadotdev/raw/main/github-metrics.svg)
