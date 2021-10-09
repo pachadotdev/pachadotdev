@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a statistician. I'm interested in the application of statistical methods to address specific policy relevant questions, and in particular in international trade, migration, investments and theoretically founded empirical work. My interests cover methodology and data compilation practises, systematically missing data, how we clean, prepare, and tidy data in a reproducible way, and the role of information on the implications of models. 
+I am a statistician. I'm interested in the application of statistical methods to address specific policy relevant questions, and in particular in international trade, migration, investments and theoretically founded empirical work. My interests cover methodology and data compilation practices, systematically missing data, how we clean, prepare, and tidy data in a reproducible way, and the role of information on the implications of models. 
 
 Quick Links: [🔗 Personal Homepage](https://pacha.dev/), [🐦 Twitter](https://twitter.com/pachadotdev), [📖 R4DS in Spanish](https://es.r4ds.hadley.nz/).
 
