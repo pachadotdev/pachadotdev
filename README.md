@@ -39,6 +39,10 @@ To contact me, sent me an email to mavargas*11* 📫 uc.cl. I can provide my CV 
 *   Iannone, R. & Vargas, M. (2021). _Pointblank: Data validation and organization of metadata for local and remote tables_. URL: [CRAN.R-project.org/package=pointblank](https://CRAN.R-project.org/package=pointblank).
 *   Chamberlain, S., et al. (2021). _Analogsea: Interface to Digital Ocean_. URL: [CRAN.R-project.org/package=analogsea](https://CRAN.R-project.org/package=analogsea).
 
+## CRAN
+
+I maintain the [WebTechnologies](https://cran.r-project.org/web/views/WebTechnologies.html) view and the official mirror for [Chile](https://cran.dcc.uchile.cl).
+
 ## LaTeX
 
 I created the R package [varsityblues](https://github.com/pachadotdev/varsityblues), which allow you to write your own reports including R code and handles LaTeX setup automatically. This package is based on the LaTeX style files that that late professor Kim C. Border once sent to me.
