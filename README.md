@@ -6,7 +6,7 @@
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R Logo" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git Logo" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="Github Logo" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="SQL Logo" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/digitalocean/digitalocean-original-wordmark.svg" alt="DigitalOcean Logo" width="50" height="50"/>-->
 
-To contact me, sent me an email to mavargas*11* 📫 uc.cl. I can provide my CV (academic/profesional) upon request.
+To contact me, send me an email to mavargas*11* 📫 uc.cl. I can provide my CV (academic/profesional) upon request.
 
 ## Quick Links
 
