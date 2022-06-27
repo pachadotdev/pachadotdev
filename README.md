@@ -12,7 +12,7 @@ I offer short courses for groups and individual personalized sessions at [Buy Me
 
 To contact me, send me an email to mavargas*11* 📫 uc.cl. I can provide my CV (academic/profesional) upon request.
 
-## Selected R packages
+# Selected R packages
 
 *   Woelwer, A.-L., et al. (2021). _Gravity: Estimation methods for gravity models_. URL: [CRAN.R-project.org/package=gravity](https://CRAN.R-project.org/package=gravity).
 *   Palma, W., el al. (2021). _LSTS: Locally stationary time series_. URL: [CRAN.R-project.org/package=LSTS](https://CRAN.R-project.org/package=LSTS).
@@ -22,19 +22,19 @@ To contact me, send me an email to mavargas*11* 📫 uc.cl. I can provide my CV 
 *   Iannone, R. & Vargas, M. (2021). _Pointblank: Data validation and organization of metadata for local and remote tables_. URL: [CRAN.R-project.org/package=pointblank](https://CRAN.R-project.org/package=pointblank).
 *   Chamberlain, S., et al. (2021). _Analogsea: Interface to Digital Ocean_. URL: [CRAN.R-project.org/package=analogsea](https://CRAN.R-project.org/package=analogsea).
 
-## CRAN
+# CRAN
 
 I maintain the [WebTechnologies](https://cran.r-project.org/web/views/WebTechnologies.html) view and the official mirror for [Chile](https://cran.dcc.uchile.cl).
 
-## LaTeX
+# LaTeX
 
 I created the R package [varsityblues](https://github.com/pachadotdev/varsityblues), which allow you to write your own reports including R code and handles LaTeX setup automatically. This package is based on the LaTeX style files that that late professor Kim C. Border once sent to me.
 
-## Cloud computing
+# Cloud computing
 
 I created images for [RStudio Server](https://marketplace.digitalocean.com/apps/rstudio) and [RStudio Server + Kubernetes](https://marketplace.digitalocean.com/apps/rstudio-kubernetes), which allow you to create virtual machines on [DigitalOcean](https://m.do.co/c/1d5a471e5f54) and to skip the setup time to install the Tidyverse and other packages. With these images, it takes around 30 seconds to have a ready to go setup for Data Science. This combines well with [analogsea](https://CRAN.R-project.org/package=analogsea) as I explain in my [blog](https://pacha.dev/blog/2021/07/17/analogsea-using-arrow-s3-and-digitalocean-for-efficient-model-fitting-in-rstudio/).
 
-## Datasets
+# Datasets
 
 Check [SQL Databases for students and educators](https://databases.pacha.dev/) if you need access to PostgreSQL, MySQL and SQL Server databases (in strict descending order of preference!).
 
