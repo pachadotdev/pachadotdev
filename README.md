@@ -9,6 +9,8 @@ I offer short courses for groups and individual personalized sessions at [Buy Me
 
 To contact me, send me an email to hello+spam@pacha.dev (i.e., use +training and I'll see your email fast enough). I can provide my CV (academic/profesional) upon request.
 
+Follow me on <a rel="me" href="https://mastodonsocial.ca/@pacha">Mastodon</a>!
+
 # Projects
 
 ## Selected R packages
