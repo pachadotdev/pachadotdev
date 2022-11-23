@@ -3,6 +3,7 @@
 👋 I am a statistician interested in applying statistical methods to address specific policy-relevant questions, particularly in international trade, migration, investments and theoretically founded empirical work.
 
 Follow me on <a rel="me" href="https://mastodonsocial.ca/@pacha">Mastodon</a>! I created a new instance called Mastodon Social.
+
 # R and Shiny training
 
 I offer short courses for groups and individual personalized sessions at [Buy Me a Coffee](https://www.buymeacoffee.com/pacha/extras). I am certified Tidyverse and Shiny instructor by [RStudio](https://education.rstudio.com/trainers) and a Software Carpentry Instructor with a Carpentries certification.
