@@ -6,7 +6,7 @@
 
 I offer short courses for groups and individual personalized sessions at [Buy Me a Coffee](https://www.buymeacoffee.com/pacha/extras). I am certified Tidyverse and Shiny instructor by [RStudio](https://education.rstudio.com/trainers) and a Software Carpentry Instructor with a Carpentries certification.
 
-To contact me, send me an email to hello+spam@pacha.dev (i.e., use +training and I'll see your email fast enough). I can provide my CV (academic/profesional) upon request.
+To contact me, send me an email to m.sepulveda+spam@mail.utoronto.ca (i.e., remove the +spam and I'll see your email). I can provide my CV (academic/profesional) upon request.
 
 # Projects
 
