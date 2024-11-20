@@ -1,47 +1,31 @@
 # About me
 
-👋 I am a statistician interested in applying statistical methods to address specific policy-relevant questions, particularly in international trade, migration, investments and theoretically founded empirical work.
+*Pour la version en française, cliquer [ici](https://pacha.dev/a-propos.html).*
 
-# R and Shiny training
+I am a PhD student in Political Science at the University of Toronto, specializing in International Relations and Public Policy. My research primarily focuses on the political dynamics of trade agreements and sanctions. Due to this interest, I am a Fellow at the [Munk School of Global Affairs and Public Policy](https://munkschool.utoronto.ca/).
 
-I offer short courses for groups and individual personalized sessions at [Buy Me a Coffee](https://www.buymeacoffee.com/pacha/extras). I am certified Tidyverse and Shiny instructor by [RStudio](https://education.rstudio.com/trainers) and a Software Carpentry Instructor with a Carpentries certification.
+My academic background includes a Master of Arts in Political Science from the University of Toronto, a Master of Science in Statistics from the Catholic University of Chile, and an Engineering degree from the University of Chile. Should you need it, I can provide my academic and professional CV upon request. For any queries or further information, please contact me at <span id="email">m.sepulveda@mail.utoronto.ca</span>.
 
-To contact me, send me an email to m.sepulveda+spam@mail.utoronto.ca (i.e., remove the +spam and I'll see your email). I can provide my CV (academic/profesional) upon request.
+I am convinced that a comprehensive understanding of economic and financial sanctions between countries can be achieved by integrating ideas, interests, institutions, and structures. I aim at studying this by combining Natural Language Processing (NLP) and Econometrics to analyze and quantify the economic repercussions of sanctions. This is detailed in the [Research](https://pacha.dev/research.html) section.
 
-# Projects
+My research interest has led me to develop advanced R, Python, and C++ skills. My [GitHub](https://github.com/pachadotdev) profile showcases my open-source projects, predominantly focused on gravity estimation, data wrangling in R, and data visualization using Shiny. More details can be found in the [Open Source](https://pacha.dev/open-source.html) section.
 
-## Selected R packages
+Additionally, I maintain a blog ([pacha.dev/blog](https://pacha.dev/blog)), where I post various notes and tutorials. Some highlights include "Creating LaTeX Figures with Inkscape," "A Crash Course on PostgreSQL for R Users," and "A Step-by-Step Guide to Write an R Package that Uses C++ Code (Ubuntu)." These posts reflect my ongoing commitment to both learning and sharing knowledge in the field.
 
-*   Woelwer, A.-L., et al. (2021). _Gravity: Estimation methods for gravity models_. URL: [CRAN.R-project.org/package=gravity](https://CRAN.R-project.org/package=gravity).
-*   Palma, W., el al. (2021). _LSTS: Locally stationary time series_. URL: [CRAN.R-project.org/package=LSTS](https://CRAN.R-project.org/package=LSTS).
-*   Vargas, M. (2021). _Tradepolicy: Replication of an advanced guide to trade policy analysis_. URL: [CRAN.R-project.org/package=tradepolicy](https://CRAN.R-project.org/package=tradepolicy).
-*   Vargas, M. (2021). _Tradestatistics: Open trade statistics API wrapper and utility program_. URL: [docs.ropensci.org/tradestatistics](https://docs.ropensci.org/tradestatistics).
-*   Kunst, J., et al (2020). _Highcharter: A wrapper for the highcharts library_. URL: [CRAN.R-project.org/package=highcharter](https://CRAN.R-project.org/package=highcharter).
-*   Iannone, R. & Vargas, M. (2021). _Pointblank: Data validation and organization of metadata for local and remote tables_. URL: [CRAN.R-project.org/package=pointblank](https://CRAN.R-project.org/package=pointblank).
-*   Chamberlain, S., et al. (2021). _Analogsea: Interface to Digital Ocean_. URL: [CRAN.R-project.org/package=analogsea](https://CRAN.R-project.org/package=analogsea).
+Trivia: My blog post [Comparing SQLite, DuckDB and Arrow with UN Trade Data](https://pacha.dev/blog/2021/08/27/comparing-sqlite-duckdb-and-arrow-with-un-trade-data/) made it to the top ten on [Hacker News](https://news.ycombinator.com/front?day=2021-10-27).
 
-## CRAN
+# Selected R packages
 
-I maintain the [WebTechnologies](https://cran.r-project.org/web/views/WebTechnologies.html) view and the official mirror for [Chile](https://cran.dcc.uchile.cl).
-
-## LaTeX
-
-I created the R package [varsityblues](https://github.com/pachadotdev/varsityblues), which allow you to write your own reports including R code and handles LaTeX setup automatically. This package is based on the LaTeX style files that that late professor Kim C. Border once sent to me.
-
-## Cloud computing
-
-I created images for [RStudio Server](https://marketplace.digitalocean.com/apps/rstudio) and [RStudio Server + Kubernetes](https://marketplace.digitalocean.com/apps/rstudio-kubernetes), which allow you to create virtual machines on [DigitalOcean](https://m.do.co/c/1d5a471e5f54) and to skip the setup time to install the Tidyverse and other packages. With these images, it takes around 30 seconds to have a ready to go setup for Data Science. This combines well with [analogsea](https://CRAN.R-project.org/package=analogsea) as I explain in my [blog](https://pacha.dev/blog/2021/07/17/analogsea-using-arrow-s3-and-digitalocean-for-efficient-model-fitting-in-rstudio/).
-
-## Datasets
-
-Check [SQL Databases for students and educators](https://databases.pacha.dev/) if you need access to PostgreSQL, MySQL and SQL Server databases (in strictly descending order of preference!).
-
-I also maintain [Open Trade Statistics](https://tradestatistics.io), a project created with the intention to lower the barrier to working with international economic trade data. It includes a public API, a dashboard, and an R package for data retrieval.
-
-## Education
-
-I translated a large part of 📖 R for Data Science translation into [Spanish](https://es.r4ds.hadley.nz/), where I also had to organize the community involved in the translation. This project also features [solutions](https://r4ds-soluciones.netlify.app) in Spanish.
-
-# 📈 Stats 
-
-![Metrics](https://github.com/pachadotdev/pachadotdev/raw/main/github-metrics.svg)
+- [TabulaPDF](https://github.com/ropensci/tabulapdf): R bindings to the Tabula Java library for PDF tables extraction.
+- [Cpp11tesseract](https://github.com/pachadotdev/cpp11tesseract): R bindings to the Tesseract C++ library for optical character recognition (OCR).
+- [Retadatam](https://github.com/pachadotdev/open-redatam): Read REDATAM binary data directly in R. This is similar to the Haven package for SPSS/Stata datasets but for REDATAM formats.
+- [Freedomhouse](https://github.com/pachadotdev/freedomhouse): A tidy version of Freedom House datasets with added ISO country codes and texts with the sub-item justification.
+- [Capybara](https://github.com/pachadotdev/capybara): Efficient Fixed-Effects Estimation in R With C++ 11 Backend.
+- [Cpp11armadillo](https://github.com/pachadotdev/cpp11armadillo): Provides function declarations and inline function definitions that facilitate communication between R and the Armadillo C++ library for linear algebra and scientific computing.
+- [Cpp11eigen](https://github.com/pachadotdev/cpp11eigen): Provides function declarations and inline function definitions that facilitate communication between R and the Eigen C++ library for linear algebra and scientific computing.
+- [DESTA (R version)](https://github.com/pachadotdev/desta): The Design of Trade Agreements Database.
+- [USITC Gravity](https://github.com/pachadotdev/usitcgravity): Database Adapted From the International Trade and Production Database for Estimation (ITPD-E) and Dynamic Gravity Dataset (DGD).
+- [Gravity](https://github.com/pachadotdev/gravity): Estimation methods for gravity models.
+- [Tradepolicy](https://github.com/pachadotdev/tradepolicy): Replication of an advanced guide to trade policy analysis.
+- [Tradestatistics](https://github.com/pachadotdev/tradestatistics): Open trade statistics API wrapper and utility program.
+- [Pointblank](https://github.com/rich-iannone/pointblank): Data validation and organization of metadata for local and remote tables.
