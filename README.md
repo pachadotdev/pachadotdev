@@ -1,7 +1,5 @@
 # About me
 
-*Pour la version en française, cliquer [ici](https://pacha.dev/a-propos.html).*
-
 My academic background includes a Master of Arts in Political Science from the University of Toronto, a Master of Science in Statistics from the Catholic University of Chile, and an Engineering degree from the University of Chile. Should you need it, I can provide my academic and professional CV upon request. For any queries or further information, please contact me at <span id="email">m.sepulveda@mail.utoronto.ca</span>.
 
 I am convinced that a comprehensive understanding of economic and financial sanctions between countries can be achieved by integrating ideas, interests, institutions, and structures. I aim at studying this by combining Natural Language Processing (NLP) and Econometrics to analyze and quantify the economic repercussions of sanctions. This is detailed in the [Research](https://pacha.dev/research.html) section.
