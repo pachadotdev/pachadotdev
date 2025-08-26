@@ -12,7 +12,7 @@ I offer short courses for groups and individual personalised sessions in my extr
 
 I translated R for Data Science translation into Spanish (see [R Para Ciencia de Datos](https://es.r4ds.hadley.nz/)), where I also had to organize the community involved in the translation. I also maintain [Open Trade Statistics](https://tradestatistics.io)
 
-Links
+**Links**
 
 * Website: [pacha.dev](https://pacha.dev/blog)
 * Blog: [pacha.dev/blog](https://pacha.dev/blog
