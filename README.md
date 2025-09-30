@@ -15,5 +15,5 @@ I translated R for Data Science translation into Spanish (see [R Para Ciencia de
 **Links**
 
 * Website: [pacha.dev](https://pacha.dev/blog)
-* Blog: [pacha.dev/blog](https://pacha.dev/blog
+* Blog: [pacha.dev/blog](https://pacha.dev/blog)
 * YouTube: [www.youtube.com/@datasciencepacha](https://www.youtube.com/@datasciencepacha)
